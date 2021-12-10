@@ -1,1 +1,1 @@
-# a
+MATLABの関数spectrogramを一から書いてみました。
